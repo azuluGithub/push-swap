@@ -33,6 +33,11 @@ SRC_PS = push_swap.c \
 		sort_all.c \
 		sort_2_3.c \
 		position_of_numbers.c \
+		push_2_elem_to_b.c \
+		check_size_of_a.c \
+		push_rem_to_b.c \
+		push_back_to_a.c \
+		push_to_stack_b.c
 
 OBJ_CH = $(SRC_CH:.c=.o)
 OBJ_PS = $(SRC_PS:.c=.o)

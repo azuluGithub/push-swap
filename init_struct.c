@@ -7,4 +7,5 @@ void	initStruct(t_ch *t)
 	t->bSize = 0;
 	t->numOfInstr = 0;
 	t->input = NULL;
+	t->rotationType = NULL;
 }
